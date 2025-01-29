@@ -172,3 +172,7 @@ body{
     padding: 8px;
     border-radius: 20px;
 }
+
+footer{
+    background:linear-gradient(to right, #ae2896, #509bf5) ;
+}
